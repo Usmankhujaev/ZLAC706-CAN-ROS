@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+test ZLAC706-CAN motor driver
+run both motor for 5 sec 
+"""
+
 import serial
 import time
 
